@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>大学院生のためのサイト - personal</title><link href="/" rel="alternate"></link><link href="/feeds/personal.atom.xml" rel="self"></link><id>/</id><updated>2021-09-02T00:00:00+09:00</updated><subtitle></subtitle><entry><title>自己紹介</title><link href="/introduce.html" rel="alternate"></link><published>2021-09-02T00:00:00+09:00</published><updated>2021-09-02T00:00:00+09:00</updated><author><name>Mr.M</name></author><id>tag:None,2021-09-02:/introduce.html</id><summary type="html">&lt;p&gt;はじめまして。大学院生の悩みや楽しみをつらつら書くつもりです。&lt;/p&gt;</summary><content type="html">&lt;h1&gt;はじめに&lt;/h1&gt;
+&lt;p&gt;はじめまして。Mr.Mです。僕は理系大学院の修士1年です。&lt;br&gt;本ブログでは大学院生ならではの悩み、楽しみ、気付き等書いていくつもりです。&lt;br&gt;こちらのブログは静的サイトジェネレーターのPelicanで書いております。&lt;/p&gt;
+&lt;h1&gt;ブログの目的&lt;/h1&gt;
+&lt;p&gt;大学生、大学院生はとてつもなく貴重で、メリットの多い身分だと考えています。&lt;br&gt;一方でお金が無かったり、勉強がつらいなどの意見もあると思います。ここでは大学生、大学院生の良さや、強みの活かし方をシェアできれば良いなと思います。&lt;br&gt;&lt;br&gt;今回は内容が無いですが出来るだけ多く、長く更新できるように頑張ります。&lt;/p&gt;</content><category term="personal"></category><category term="院生"></category><category term="自己紹介"></category></entry></feed>
